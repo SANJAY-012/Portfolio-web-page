@@ -12,7 +12,7 @@ Contact Information: Provide your contact details, including email address, phon
 Installation
 To use this portfolio page template, follow these steps:
 
-Clone the repository: git clone https://github.com/your-username/portfolio-page.git
+Clone the repository: git clone https://github.com/SANJAY-012/Portfolio-web-page.git
 Navigate to the project directory: cd portfolio-page
 That's it! The template files are now available on your local machine.
 
